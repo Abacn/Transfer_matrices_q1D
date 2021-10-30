@@ -8,9 +8,12 @@ The code here calculates the partition function of hard disks confined between t
 ## Summary
 
 - Language: Matlab (work with Matlab R2016a, R2017a)
-- Publication: Yi Hu, Lin Fu and Patrick Charbonneau. \"Correlation lengths in quasi-one-dimensional systems via transfer matrices\". Molecular Physics (2018). 
-- URL: http://doi.org/10.1080/00268976.2018.1479543
-- preprint access: arxiv:1804.00693
+
+- Publications
+
+  - Yi Hu, Lin Fu and Patrick Charbonneau. "Correlation lengths in quasi-one-dimensional systems via transfer matrices." Molecular Physics, 21, 3345 (2018). http://doi.org/10.1080/00268976.2018.1479543 (arXiv:1804.00693)
+
+  - Yi Hu and Patrick Charbonneau. "Comment on 'Kosterlitz-Thouless-type caging-uncaging transition in a quasi-one-dimensional hard disk system'." Physical Review Research, 3, 038001 (2021). https://doi.org/10.1103/PhysRevResearch.3.038001 (arXiv:2009.11194)
 
 ## File Description
 
